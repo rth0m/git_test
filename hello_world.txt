@@ -1,0 +1,1 @@
+Hello World! I am practicing how to stage and commit using Git. 
